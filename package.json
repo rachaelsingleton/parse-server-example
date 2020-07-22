@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "buffer-shims": "^1.0.0",
-    "express": "^4.13.4",
+    "express": "^4.17.1",
     "parse-server": "4.3.0",
     "parse-dashboard": "2.1.0",
     "parse-server-azure-config": "^1.0.0"
@@ -20,6 +20,6 @@
     "postinstall": "git update-index --skip-worktree local.js & exit 0"
   },
   "engines": {
-    "node": "6.9.4"
+    "node": "10.0.0"
   }
 }
