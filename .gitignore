@@ -30,3 +30,7 @@ node_modules
 *~
 
 local.js
+.env
+config.js
+.vscode/settings.json
+config.js
